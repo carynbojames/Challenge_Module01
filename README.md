@@ -1,6 +1,9 @@
 # Project Title
 Horiseon Marketing Agency Refractor & Accessibility Improvements
 
+## Directions
+The index.html file is located inside the Challenge-Module01 folder
+
 ## Objective
 - Make modifications so the website adheres more to the accessibility standards
 - Update HMTL code to follow HTML semantic structures

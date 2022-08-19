@@ -2,13 +2,15 @@
 Horiseon Marketing Agency Refractor & Accessibility Improvements
 
 ## Directions
-The index.html file is located inside the Challenge-Module01 folder
+https://carynbojames.github.io/Challenge_Module01/
 
 ## Objective
 - Make modifications so the website adheres more to the accessibility standards
 - Update HMTL code to follow HTML semantic structures
 - Verify that the website functions as intended
 - Make the website more effective by streamlining and removing removing redunancy in the code
+
+![screenshot of deployed page](assets/images/homework-demo.png)
 
 ## Modifications
 - Added alt text to the images
